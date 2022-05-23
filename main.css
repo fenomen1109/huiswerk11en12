@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(255, 0, 205);
+  }
+header {background-color: rgb(107, 065, 205); width: 100%; height: 200px;}
+footer {background-color: rgb(230, 230, 250); width: 100%; height: 200px;}
+.cel0-1 {background-color: rgb(255, 165, 0);}
+.cel0-2 {background-color: rgb(107, 0, 205);}
+.cel0-3 {background-color: rgb(244, 164, 96);}
+.cel0-4 {background-color: rgb(150, 60, 180);}
+.cel1-1 {background-color: rgb(224, 205, 055);}
+.cel1-2 {background-color: rgb(050, 245, 100);}
+.cel1-3 {background-color: rgb(245, 222, 179);}
+.cel1-4 {background-color: rgb(086, 122, 204);}
+.cel2-1 {background-color: rgb(176, 224, 230);}
+.cel2-2 {background-color: rgb(205, 065, 135);}
+.cel2-3 {background-color: rgb(255, 192, 203);}
+.cel2-4 {background-color: rgb(175, 213, 094);}
+.cel3-1 {background-color: rgb(255, 235, 205);}
+.cel3-2 {background-color: rgb(122, 092, 225);}
+.cel3-3 {background-color: rgb(0, 250, 154);}
+.cel3-4 {background-color: rgb(128, 125, 0);}
